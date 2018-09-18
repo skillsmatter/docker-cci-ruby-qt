@@ -45,7 +45,7 @@ jobs:
       ...
 ```
 
-**NB: Always specify a version number when using the image. Do not rely on `latest` for CI builds.
+**NB: Always specify a version number when using the image. Do not rely on `latest` for CI builds.**
 
 
 [^1]: https://cloud.docker.com/swarm/skillsmatter/repository/list
