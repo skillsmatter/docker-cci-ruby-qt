@@ -54,4 +54,4 @@ jobs:
 [docker_image]: https://cloud.docker.com/swarm/skillsmatter/repository/docker/skillsmatter/cci-ruby-qt
 
 [redis]: https://redis.io/
-[postgres]: https://www.postgresql.org/
+[postgresql]: https://www.postgresql.org/
